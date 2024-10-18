@@ -85,6 +85,11 @@ fun BasicCompose(dzar: Modifier = Modifier){
                 color = Color.Red
             )
         )
+        Text(
+            text = "2022140008",
+            fontSize = 28.sp,
+            color = Color.Black
+        )
 
 
     }

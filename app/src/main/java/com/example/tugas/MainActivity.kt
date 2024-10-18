@@ -77,6 +77,15 @@ fun BasicCompose(dzar: Modifier = Modifier){
             fontSize = 24.sp,
             color = Color.Black,
         )
+        Text(text = "Dzar Zaki Fazluri",
+            style = TextStyle(
+                fontSize = 14.sp,
+                fontStyle = FontStyle.Italic,
+                fontWeight = FontWeight.Bold,
+                color = Color.Red
+            )
+        )
+
 
     }
 

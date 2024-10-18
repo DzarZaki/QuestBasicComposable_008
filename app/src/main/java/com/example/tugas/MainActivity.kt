@@ -64,6 +64,10 @@ fun BasicCompose(dzar: Modifier = Modifier){
             fontWeight = FontWeight.Bold,
             color = Color.Black
         )
+        Text(text ="Ini adalah Halaman Login",
+            fontSize = 20.sp,
+            color = Color.Gray
+        )
 
     }
 

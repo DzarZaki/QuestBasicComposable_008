@@ -42,6 +42,7 @@ class MainActivity : ComponentActivity() {
                     Greeting("Android")
 
                     BasicCompose(
+
                         dzar = Modifier.padding()
                     )
                 }

@@ -73,6 +73,10 @@ fun BasicCompose(dzar: Modifier = Modifier){
             contentDescription = null,
             modifier = dzar.size(200.dp)
         )
+        Text(text = "Nama", modifier = dzar,
+            fontSize = 24.sp,
+            color = Color.Black,
+        )
 
     }
 

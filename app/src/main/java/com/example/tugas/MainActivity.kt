@@ -112,6 +112,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
     )
 }
 
+// Fungsi untuk menampilkan UI dasar
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {

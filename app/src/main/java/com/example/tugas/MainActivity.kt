@@ -68,6 +68,11 @@ fun BasicCompose(dzar: Modifier = Modifier){
             fontSize = 20.sp,
             color = Color.Gray
         )
+        Image(
+            painter = painterResource(id = R.drawable.umy),
+            contentDescription = null,
+            modifier = dzar.size(200.dp)
+        )
 
     }
 

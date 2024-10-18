@@ -58,6 +58,12 @@ fun BasicCompose(dzar: Modifier = Modifier){
         modifier = Modifier.fillMaxSize(),
         horizontalAlignment = Alignment.CenterHorizontally
     ){
+        Text(
+            text = "Login",
+            fontSize = 40.sp,
+            fontWeight = FontWeight.Bold,
+            color = Color.Black
+        )
 
     }
 
